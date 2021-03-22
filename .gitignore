@@ -1,0 +1,7 @@
+# .gitignore for pycharm
+venv/
+/.idea/
+
+# .gitignore for sublime text
+userinput.sublime-project
+userinput.sublime-workspace
